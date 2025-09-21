@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     "corsheaders",
 
     # Local apps
-    'career_project',
+    'career',
 ]
 
 # REST + JWT
@@ -100,6 +100,8 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'career_project.urls'
 
 CORS_ALLOW_ALL_ORIGINS = True
+
+ALLOWED_HOSTS = ["*"]
 
 # Templates
 TEMPLATES = [
