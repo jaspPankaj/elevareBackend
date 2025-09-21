@@ -1,15 +1,82 @@
-# Django
-*.pyc
+# Python #
+###########
+*.py[cod]
+*$py.class
 __pycache__/
-db.sqlite3
-/media
-/staticfiles
+*.pyc
+*.pyo
+*.pyd
 
-# Environments
-.env
+# Virtual Environment #
+########################
+env/
 venv/
-.env.local
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.venv.*
 
-# IDE
-.vscode/
+# Django #
+###########
+*.log
+*.pot
+*.mo
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# IDEs and Editors #
+#####################
 .idea/
+.vscode/
+*.iml
+
+# macOS #
+##########
+.DS_Store
+
+# Windows #
+############
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebooks #
+#####################
+.ipynb_checkpoints/
+
+# Coverage Reports #
+####################
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Pytest #
+###########
+.cache/
+
+# Pipenv #
+###########
+Pipfile.lock
+
+# Build Directories #
+#####################
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+
+# Installer Logs #
+##################
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment Variables #
+#########################
+.env
+.env.*
