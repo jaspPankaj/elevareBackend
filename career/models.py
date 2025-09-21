@@ -9,3 +9,12 @@ class CareerPrediction(models.Model):
 
     def __str__(self):
         return f"{self.user.username} - {self.created_at}"
+    
+class CareerSuggestion(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name="career_suggestions")
+    career = models.CharField(max_length=255)
+    suggestion = models.JSONField()   # Store parsed JSON from OpenAI
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.career} suggestion for {self.user.username}"

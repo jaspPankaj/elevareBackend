@@ -16,7 +16,7 @@ from google.oauth2 import id_token
 from google.auth.transport import requests as google_requests
 from rest_framework_simplejwt.tokens import RefreshToken
 
-from .models import CareerPrediction
+from .models import CareerPrediction,CareerSuggestion
 from .serializers import CareerPredictionSerializer,UserSerializer
 
 
@@ -195,3 +195,76 @@ class LoginView(APIView):
             }, status=status.HTTP_200_OK)
         else:
             return Response({"error": "Invalid username or password"}, status=status.HTTP_401_UNAUTHORIZED)
+        
+class CareerDetailsView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request):
+        try:
+            career_name = request.data.get("career")
+            if not career_name:
+                return Response({"error": "Career field is required."}, status=status.HTTP_400_BAD_REQUEST)
+
+            prompt = f"""
+            Task:
+            Provide a detailed breakdown for the career: {career_name}.
+
+            The response must be ONLY valid JSON in this format:
+            {{
+              "career": "{career_name}",
+              "required_skills": ["string"],
+              "free_courses": [
+                {{
+                  "title": "string",
+                  "platform": "string",
+                  "url": "string"
+                }}
+              ],
+              "roadmap": {{
+                "short_term": ["string"],
+                "medium_term": ["string"],
+                "long_term": ["string"]
+              }}
+            }}
+            """
+
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": "You are an expert career counselor and learning path guide."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.7,
+                max_tokens=1000
+            )
+
+            raw_content = response.choices[0].message.content.strip()
+
+            if raw_content.startswith("```"):
+                raw_content = raw_content.replace("```json", "").replace("```", "").strip()
+
+            parsed_json = extract_json(raw_content)
+            if not parsed_json:
+                return Response(
+                    {"error": "Failed to parse JSON from OpenAI response."},
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                )
+
+            # Save in DB
+            suggestion = CareerSuggestion.objects.create(
+                user=request.user,
+                career=career_name,
+                suggestion=parsed_json
+            )
+
+            return Response({
+                "id": suggestion.id,
+                "career": parsed_json["career"],
+                "required_skills": parsed_json["required_skills"],
+                "free_courses": parsed_json["free_courses"],
+                "roadmap": parsed_json["roadmap"],
+                "created_at": suggestion.created_at
+            })
+
+        except Exception as e:
+            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)

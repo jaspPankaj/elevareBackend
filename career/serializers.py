@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import CareerPrediction
+from .models import CareerPrediction,CareerSuggestion
 from django.contrib.auth import get_user_model
 User = get_user_model()
 
@@ -60,3 +60,8 @@ class UserSerializer(serializers.ModelSerializer):
             password=validated_data["password"]
         )
         return user
+    
+class CareerSuggestionSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = CareerSuggestion
+        fields = ["id", "career", "suggestion", "created_at"]
