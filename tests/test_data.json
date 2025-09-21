@@ -1,0 +1,935 @@
+[
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Cloud Computing"
+    ],
+    "interests": [
+      "Web Development"
+    ],
+    "ug_cgpa": "7.1",
+    "certifications": [
+      "Python Programming Certificate",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "Cloud Computing",
+      "React",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Research",
+      "Robotics",
+      "Artificial Intelligence"
+    ],
+    "ug_cgpa": "7.0",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "UI/UX Design",
+    "skills": [
+      "Data Science",
+      "JavaScript",
+      "Python"
+    ],
+    "interests": [
+      "Finance"
+    ],
+    "ug_cgpa": "9.6",
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "Computer Science & Engineering (CSE)",
+    "skills": [
+      "Django",
+      "Java"
+    ],
+    "interests": [
+      "Entrepreneurship"
+    ],
+    "ug_cgpa": "9.2",
+    "certifications": [
+      "UI/UX Design Certification"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "interests": [
+      "Finance",
+      "Web Development",
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "7.4",
+    "certifications": [
+      "React Developer Certification",
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "Python",
+      "Django"
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Finance"
+    ],
+    "ug_cgpa": "9.8",
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "Data Science",
+      "Java",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Robotics",
+      "Web Development"
+    ],
+    "ug_cgpa": "9.8",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "React Developer Certification"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Accounting",
+    "skills": [
+      "Cloud Computing",
+      "Django",
+      "Java"
+    ],
+    "interests": [
+      "Robotics",
+      "Research",
+      "Marketing"
+    ],
+    "ug_cgpa": "6.5",
+    "certifications": [
+      "Machine Learning Certification"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "Political Science",
+    "skills": [
+      "C++",
+      "Django",
+      "SQL"
+    ],
+    "interests": [
+      "Research",
+      "Web Development",
+      "Robotics"
+    ],
+    "ug_cgpa": "9.3",
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "Political Science",
+    "skills": [
+      "Django",
+      "React"
+    ],
+    "interests": [
+      "Artificial Intelligence"
+    ],
+    "ug_cgpa": "9.1",
+    "certifications": [
+      "Python Programming Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "Machine Learning",
+      "Cloud Computing",
+      "JavaScript"
+    ],
+    "interests": [
+      "UI/UX Design",
+      "Robotics",
+      "Web Development"
+    ],
+    "ug_cgpa": "8.3",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Physics",
+    "skills": [
+      "Cloud Computing",
+      "React",
+      "JavaScript"
+    ],
+    "interests": [
+      "UI/UX Design",
+      "Marketing"
+    ],
+    "ug_cgpa": "8.4",
+    "certifications": [
+      "React Developer Certification"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "Java",
+      "JavaScript"
+    ],
+    "interests": [
+      "Research",
+      "Artificial Intelligence"
+    ],
+    "ug_cgpa": "9.4",
+    "certifications": [
+      "Machine Learning Certification",
+      "UI/UX Design Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "Information Technology (IT)",
+    "skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Web Development"
+    ],
+    "ug_cgpa": "7.5",
+    "certifications": [
+      "Python Programming Certificate",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "Information Technology (IT)",
+    "skills": [
+      "Data Science",
+      "Java",
+      "React",
+      "C++"
+    ],
+    "interests": [
+      "Entrepreneurship",
+      "UI/UX Design",
+      "Research"
+    ],
+    "ug_cgpa": "8.7",
+    "certifications": [
+      "Machine Learning Certification"
+    ],
+    "experience_years": "0"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "ECE",
+    "skills": [
+      "JavaScript",
+      "Cloud Computing",
+      "Python"
+    ],
+    "interests": [
+      "Research",
+      "Creative Arts"
+    ],
+    "ug_cgpa": "9.8",
+    "certifications": [
+      "React Developer Certification",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "Python",
+      "Django",
+      "C++"
+    ],
+    "interests": [
+      "Robotics",
+      "Creative Arts",
+      "Finance"
+    ],
+    "ug_cgpa": "8.6",
+    "certifications": [
+      "Python Programming Certificate"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Marketing",
+    "skills": [
+      "Python",
+      "Data Science",
+      "C++"
+    ],
+    "interests": [
+      "Research",
+      "Marketing",
+      "Robotics"
+    ],
+    "ug_cgpa": "7.4",
+    "certifications": [
+      "React Developer Certification"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "SQL",
+      "React",
+      "C++",
+      "Java"
+    ],
+    "interests": [
+      "Artificial Intelligence"
+    ],
+    "ug_cgpa": "9.1",
+    "certifications": [
+      "Python Programming Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Computer Applications (BCA)",
+    "ug_specialization": "Artificial Intelligence",
+    "skills": [
+      "SQL",
+      "Django"
+    ],
+    "interests": [
+      "Data Science",
+      "Marketing",
+      "Finance"
+    ],
+    "ug_cgpa": "8.7",
+    "certifications": [
+      "Data Science Professional Certificate",
+      "React Developer Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Biology",
+    "skills": [
+      "Django",
+      "SQL",
+      "Cloud Computing"
+    ],
+    "interests": [
+      "UI/UX Design",
+      "Marketing"
+    ],
+    "ug_cgpa": "6.5",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "JavaScript",
+      "Cloud Computing"
+    ],
+    "interests": [
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "9.2",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "UI/UX Design",
+    "skills": [
+      "JavaScript",
+      "Data Science",
+      "C++"
+    ],
+    "interests": [
+      "Finance",
+      "Entrepreneurship"
+    ],
+    "ug_cgpa": "9.6",
+    "certifications": [
+      "Creative Writing Certificate",
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "C++",
+      "React"
+    ],
+    "interests": [
+      "Web Development",
+      "Research",
+      "Entrepreneurship"
+    ],
+    "ug_cgpa": "9.5",
+    "certifications": [
+      "React Developer Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "Python",
+      "SQL",
+      "JavaScript"
+    ],
+    "interests": [
+      "Data Science",
+      "Finance"
+    ],
+    "ug_cgpa": "7.6",
+    "certifications": [
+      "Python Programming Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "Graphic Design",
+    "skills": [
+      "Cloud Computing",
+      "Machine Learning",
+      "JavaScript",
+      "Django"
+    ],
+    "interests": [
+      "Robotics"
+    ],
+    "ug_cgpa": "8.1",
+    "certifications": [
+      "Data Science Professional Certificate",
+      "React Developer Certification"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Marketing",
+    "skills": [
+      "Python",
+      "Django"
+    ],
+    "interests": [
+      "Marketing",
+      "Entrepreneurship",
+      "Research"
+    ],
+    "ug_cgpa": "7.7",
+    "certifications": [
+      "Creative Writing Certificate",
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "ECE",
+    "skills": [
+      "Python",
+      "C++"
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Finance",
+      "Marketing"
+    ],
+    "ug_cgpa": "7.5",
+    "certifications": [
+      "React Developer Certification",
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "Graphic Design",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Data Science"
+    ],
+    "interests": [
+      "Entrepreneurship",
+      "Research",
+      "Finance"
+    ],
+    "ug_cgpa": "8.1",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "React Developer Certification"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Marketing",
+    "skills": [
+      "Python",
+      "Cloud Computing",
+      "React"
+    ],
+    "interests": [
+      "Entrepreneurship",
+      "Finance",
+      "Creative Arts"
+    ],
+    "ug_cgpa": "7.0",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "Political Science",
+    "skills": [
+      "React",
+      "C++",
+      "Data Science",
+      "Django"
+    ],
+    "interests": [
+      "Research",
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "ug_cgpa": "8.4",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Mathematics",
+    "skills": [
+      "C++",
+      "Java",
+      "Cloud Computing",
+      "Python"
+    ],
+    "interests": [
+      "Robotics"
+    ],
+    "ug_cgpa": "7.0",
+    "certifications": [
+      "Machine Learning Certification",
+      "UI/UX Design Certification"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "Python",
+      "Data Science",
+      "Cloud Computing",
+      "Django"
+    ],
+    "interests": [
+      "Creative Arts",
+      "Entrepreneurship",
+      "Data Science"
+    ],
+    "ug_cgpa": "9.6",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "React Developer Certification"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Marketing",
+    "skills": [
+      "JavaScript",
+      "C++",
+      "Java"
+    ],
+    "interests": [
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "6.6",
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "0"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "Computer Science & Engineering (CSE)",
+    "skills": [
+      "Django",
+      "C++",
+      "Machine Learning",
+      "Java"
+    ],
+    "interests": [
+      "Robotics",
+      "Web Development"
+    ],
+    "ug_cgpa": "8.0",
+    "certifications": [
+      "Creative Writing Certificate",
+      "Python Programming Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Taxation",
+    "skills": [
+      "SQL",
+      "Cloud Computing",
+      "React",
+      "Python"
+    ],
+    "interests": [
+      "Web Development",
+      "Data Science",
+      "Marketing"
+    ],
+    "ug_cgpa": "9.2",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "UI/UX Design",
+    "skills": [
+      "JavaScript",
+      "Machine Learning",
+      "Python",
+      "Django"
+    ],
+    "interests": [
+      "Research",
+      "UI/UX Design",
+      "Robotics"
+    ],
+    "ug_cgpa": "9.2",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Computer Applications (BCA)",
+    "ug_specialization": "Cybersecurity",
+    "skills": [
+      "Machine Learning",
+      "SQL"
+    ],
+    "interests": [
+      "Web Development",
+      "Creative Arts",
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "7.9",
+    "certifications": [
+      "Data Science Professional Certificate",
+      "Chartered Financial Analyst (CFA)"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Finance",
+    "skills": [
+      "JavaScript",
+      "Java"
+    ],
+    "interests": [
+      "Marketing",
+      "Artificial Intelligence",
+      "Entrepreneurship"
+    ],
+    "ug_cgpa": "9.3",
+    "certifications": [
+      "Data Science Professional Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Chemistry",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Django",
+      "Data Science"
+    ],
+    "interests": [
+      "Data Science"
+    ],
+    "ug_cgpa": "8.2",
+    "certifications": [
+      "Creative Writing Certificate"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Computer Applications (BCA)",
+    "ug_specialization": "Cybersecurity",
+    "skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Data Science",
+      "Marketing"
+    ],
+    "ug_cgpa": "7.9",
+    "certifications": [
+      "Python Programming Certificate",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Biology",
+    "skills": [
+      "Django",
+      "Python",
+      "Machine Learning"
+    ],
+    "interests": [
+      "Marketing",
+      "Data Science"
+    ],
+    "ug_cgpa": "7.6",
+    "certifications": [
+      "UI/UX Design Certification",
+      "Machine Learning Certification"
+    ],
+    "experience_years": "1"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "History",
+    "skills": [
+      "React",
+      "SQL",
+      "Data Science",
+      "Django"
+    ],
+    "interests": [
+      "Entrepreneurship",
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "7.5",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "Python Programming Certificate"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Technology (BTech)",
+    "ug_specialization": "Information Technology (IT)",
+    "skills": [
+      "Django",
+      "JavaScript",
+      "Data Science",
+      "Python"
+    ],
+    "interests": [
+      "Robotics",
+      "Data Science",
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "7.3",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "Python Programming Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Business Administration (BBA)",
+    "ug_specialization": "Marketing",
+    "skills": [
+      "Machine Learning",
+      "Cloud Computing"
+    ],
+    "interests": [
+      "Marketing",
+      "Research"
+    ],
+    "ug_cgpa": "8.7",
+    "certifications": [
+      "UI/UX Design Certification",
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "4"
+  },
+  {
+    "ug_course": "Bachelor of Design (BDes)",
+    "ug_specialization": "Fashion Design",
+    "skills": [
+      "C++",
+      "Data Science"
+    ],
+    "interests": [
+      "Data Science",
+      "Entrepreneurship",
+      "UI/UX Design"
+    ],
+    "ug_cgpa": "8.5",
+    "certifications": [
+      "Data Science Professional Certificate",
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Science (BSc)",
+    "ug_specialization": "Physics",
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "Java"
+    ],
+    "interests": [
+      "Research",
+      "Robotics",
+      "Data Science"
+    ],
+    "ug_cgpa": "8.0",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)",
+      "Python Programming Certificate"
+    ],
+    "experience_years": "5"
+  },
+  {
+    "ug_course": "Bachelor of Commerce (BCom)",
+    "ug_specialization": "Finance",
+    "skills": [
+      "JavaScript",
+      "Data Science"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "ug_cgpa": "8.7",
+    "certifications": [
+      "UI/UX Design Certification",
+      "AWS Certified Solutions Architect"
+    ],
+    "experience_years": "3"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "History",
+    "skills": [
+      "Data Science",
+      "React",
+      "SQL"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "ug_cgpa": "6.7",
+    "certifications": [
+      "Chartered Financial Analyst (CFA)"
+    ],
+    "experience_years": "2"
+  },
+  {
+    "ug_course": "Bachelor of Arts (BA)",
+    "ug_specialization": "English Literature",
+    "skills": [
+      "C++",
+      "SQL"
+    ],
+    "interests": [
+      "Data Science"
+    ],
+    "ug_cgpa": "8.8",
+    "certifications": [
+      "UI/UX Design Certification",
+      "Python Programming Certificate"
+    ],
+    "experience_years": "2"
+  }
+]
